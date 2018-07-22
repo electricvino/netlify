@@ -1,0 +1,2 @@
+# netlify
+static personal site
